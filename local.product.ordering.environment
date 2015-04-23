@@ -1,0 +1,30 @@
+{
+	"id": "1ac9f537-324e-f5ed-f7d3-b084c31d2a34",
+	"name": "local.product.ordering.environment",
+	"values": [
+		{
+			"key": "productOrderingApi",
+			"value": "http://localhost:8080/DSProductOrdering/api/productOrdering/v2",
+			"type": "text",
+			"name": "productOrderingApi",
+			"enabled": true
+		},
+		{
+			"key": "productOrderingSubscriberApi",
+			"value": "http://localhost:8080/DSProductOrdering/subscriber/api",
+			"type": "text",
+			"name": "productOrderingSubscriberApi",
+			"enabled": true
+		},
+		{
+			"key": "productOrderingAdminApi",
+			"value": "http://localhost:8080/DSProductOrdering/api/productOrdering/v2/admin",
+			"type": "text",
+			"name": "productOrderingAdminApi",
+			"enabled": true
+		}
+	],
+	"timestamp": 1429752046807,
+	"synced": false,
+	"syncedFilename": ""
+}

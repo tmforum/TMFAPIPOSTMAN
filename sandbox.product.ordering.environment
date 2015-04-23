@@ -1,0 +1,30 @@
+{
+	"id": "a10a0e8b-6e08-7b70-c865-db5b5a3b23b3",
+	"name": "sandbox.product.ordering.environment",
+	"values": [
+		{
+			"key": "productOrderingApi",
+			"value": "http://env-0693795.jelastic.servint.net:8080/DSProductOrdering/api/productOrdering/v2",
+			"type": "text",
+			"name": "productOrderingApi",
+			"enabled": true
+		},
+		{
+			"key": "productOrderingSubscriberApi",
+			"value": "http://env-0693795.jelastic.servint.net:8080/DSProductOrdering/subscriber/api",
+			"type": "text",
+			"name": "productOrderingSubscriberApi",
+			"enabled": true
+		},
+		{
+			"key": "productOrderingAdminApi",
+			"value": "http://env-0693795.jelastic.servint.net:8080/DSProductOrdering/api/productOrdering/v2/admin",
+			"type": "text",
+			"name": "productOrderingAdminApi",
+			"enabled": true
+		}
+	],
+	"timestamp": 1429752001008,
+	"synced": false,
+	"syncedFilename": ""
+}
