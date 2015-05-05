@@ -4,7 +4,7 @@ This repository contains the postman collections for the TMF APIs.
 
 Please import them into POSTMAN.
 
-Rememeber to also import the TMF.environment into POSTMAN.
+Rememberto also import the TMF.environment into POSTMAN.
 
 This way the TMF POSTMAN collection will use the TMF Cloud Hosted Sandbox where Reference Implementtions are running.
 
@@ -15,4 +15,4 @@ In general the POSTMAN collections are organized in the following way:
 -hubAPI with POST and GET (letting you create, get Hub representing PUB/SUB subscriptions)
 
 -eventSubscriberTestAPI with GET current and history (letting you get the most up to date event or the history of the events 
-sent to this test lsitener endpoint).
+sent to this test listener endpoint).
