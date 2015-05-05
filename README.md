@@ -6,7 +6,7 @@ Please import them into POSTMAN.
 
 Rememberto also import the TMF.environment into POSTMAN.
 
-This way the TMF POSTMAN collection will use the TMF Cloud Hosted Sandbox where Reference Implementtions are running.
+This way the TMF POSTMAN collection will use the TMF Cloud Sandbox where Reference Implementations are running.
 
 In general the POSTMAN collections are organized in the following way:
 
