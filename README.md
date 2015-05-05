@@ -4,7 +4,7 @@ This repository contains the postman collections for the TMF APIs.
 
 Please import them into POSTMAN.
 
-Rememberto also import the TMF.environment into POSTMAN.
+Remember to also import the TMF.environment into POSTMAN.
 
 This way the TMF POSTMAN collection will use the TMF Cloud Sandbox where Reference Implementations are running.
 
