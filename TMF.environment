@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "Host",
-			"value": "http://env-0693795.jelastic.servint.net:8080",
+			"value": "http://env-0693795.jelastic.servint.net",
 			"type": "text",
 			"name": "Host",
 			"enabled": true
